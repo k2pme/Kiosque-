@@ -28,3 +28,7 @@ export const KiosqueStandarsColors = createTheme({
 
     }
 })
+
+export const secondaryText = {
+    color : '#3498DB',
+}
