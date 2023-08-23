@@ -9,8 +9,7 @@
 /coverage
 
 # production
-/Backend
-/Fronts
+
 
 # misc
 .DS_Store
